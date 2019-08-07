@@ -45,4 +45,4 @@ BOT.message do |event|
     end
   end
 end
-BOT.run :async
+BOT.run
